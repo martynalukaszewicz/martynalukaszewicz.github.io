@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1-About
+title: ## 1-About ##
 ---
 
 I am a PhD student in the Bioinformatics and Computational Biology program. 
