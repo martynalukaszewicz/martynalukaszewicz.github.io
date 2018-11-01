@@ -3,13 +3,7 @@ layout: page
 title: About
 ---
 
-This is an about page about this awesome site.
-Hope you love it!
+Here is a link to my latest [CV](https://martynalukaszewicz.github.io/CV_Nov2018.pdf).
 
-Reasons:
-- its great.
-- its a test.
 
-## Other thoughts
-
-This is great.
+[go](http://stackoverflow.com){:target="_blank"}
