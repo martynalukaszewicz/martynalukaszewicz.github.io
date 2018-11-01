@@ -9,7 +9,7 @@ I am co-advised by [Paul Hohenlohe](https://www.uidaho.edu/sci/biology/people/fa
 
 
 #### Previous Projects ####
-![Blue Diamond Almonds]()
+![Blue Diamond Almonds](BlueDiamondAlmond.jpg)
 
 
 
