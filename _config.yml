@@ -1,19 +1,11 @@
 # basic options
 title: Martyna Lukaszewicz
-
-
+author: GitHub User
 email: martyna[at]uidaho[dot]edu
 description: Bioinformatics and Computational Biology
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
 
-# defaults (to simplify front matter)
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-      
 
 # Build settings
 markdown: kramdown
