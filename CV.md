@@ -62,3 +62,8 @@ https://martynalukaszewicz.github.io | e-mail: martyna@uidaho.edu
 SKILLS
 Basic C++, python, MATLAB
 Intermediate R, SAS
+
+
+
+
+
