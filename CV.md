@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-Here is a pdf of my [CV_Nov2018]({{ site.url }}/pdfs/CV_Nov2018.pdf){:target="_blank"}.
+Here is a pdf of my [CV]({{ site.url }}/pdfs/CV_Nov2018.pdf){:target="_blank"}.
 
 Source code for these can be found on my Github site or by clicking the link below.
 
