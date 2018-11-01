@@ -8,7 +8,7 @@ I am co-advised by [Paul Hohenlohe](https://www.uidaho.edu/sci/biology/people/fa
 [Hohenlohe lab](http://hohenlohelab.github.io/){:target="_blank"} and [Erkan Buzbas](https://www.uidaho.edu/sci/stat/people/faculty/erkanb){:target="_blank"}. I work on Approximate Bayesian Computation (ABC) methods to study divergent selection in yeast. 
 
 
-### Previous Projects ###
+#### Previous Projects ####
 
 
 
