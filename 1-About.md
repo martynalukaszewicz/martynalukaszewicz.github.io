@@ -1,9 +1,8 @@
 ---
 layout: page
-title: 1-About 
+title: Research 
 ---
 
-I am a PhD student in the Bioinformatics and Computational Biology program. I work on application of statistical tools to real world biological data.
 
 #### Current Project ####
 I am co-advised by [Paul Hohenlohe](http://hohenlohelab.github.io/){:target="_blank"} and [Erkan Buzbas](http://webpages.uidaho.edu/erkanbuzbas/){:target="_blank"} at the University of Idaho. I work on Approximate Bayesian Computation (ABC) methods to study divergent selection in yeast. 
