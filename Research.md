@@ -13,7 +13,9 @@ For my master's thesis I worked under supervision of [Brian Dennis](https://www.
 
 
 
-![Blue Diamond Almonds](https://martynalukaszewicz.github.io/BlueDiamondAlmonds.jpg){: .center-image }
+![BlueDiamondAlmonds](https://martynalukaszewicz.github.io/BlueDiamondAlmonds.jpg){: .center-image }
+
+
 
 
 
