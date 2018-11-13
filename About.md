@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: 33-About
+title: About
 ---
 
 
