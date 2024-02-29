@@ -1,10 +1,13 @@
 # basic options
 title: Martyna Lukaszewicz
-email: lukas.mrty[at]gmail[dot]com
+email: martyna.lukaszewicz[at]gmail[dot]com
 author: Jekyll
 description: 
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
+#google-scholar:
+scholar_userid: ATN-Q6kAAAAJ
+
 
 
 # Build settings
@@ -13,3 +16,4 @@ theme: minima
 
 plugins: 
   - jekyll-sitemap
+  - jekyll/scholar
