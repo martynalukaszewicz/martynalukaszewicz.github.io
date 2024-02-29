@@ -1,13 +1,25 @@
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
 # basic options
 title: Martyna Lukaszewicz
-#email: martyna.lukaszewicz[at]gmail[dot]com
-author: Jekyll
+first_name: Martyna
+last_name: Lukaszewicz
+email: martyna.lukaszewicz[at]gmail[dot]com
+#author: Jekyll
 description: 
+
+
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
 #google-scholar:
 scholar_userid: ATN-Q6kAAAAJ
-#email: martyna.lukaszewicz[at]gmail[dot]com
+orcid_id: 0000-0002-0539-0883
 
 
 
@@ -17,4 +29,4 @@ theme: minima
 
 plugins: 
   - jekyll-sitemap
-  #- jekyll/scholar
+  - jekyll/scholar
