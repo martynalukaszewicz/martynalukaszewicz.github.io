@@ -19,9 +19,7 @@ martyna.lukaszewicz[at]gmail[dot]com
 
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
-#google-scholar:
-scholar_userid: ATN-Q6kAAAAJ
-orcid_id: 0000-0002-0539-0883
+
 
 
 
@@ -29,46 +27,5 @@ orcid_id: 0000-0002-0539-0883
 markdown: kramdown
 theme: minima
 
-#plugins: 
-#  - jekyll-sitemap
-#  - jekyll/scholar
-# Plug-ins
-plugins:
-  - jekyll-email-protect
-  - jekyll-github-metadata
-  - jekyll-paginate-v2
-  - jekyll/scholar
-  - jekyll-twitter-plugin
-  - jemoji
+plugins: 
   - jekyll-sitemap
-  # - bootstrap
-  # - material-sass
-
-
-
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-
-scholar:
-
-  last_name: Thorey
-
-  style: apa
-  locale: en
-
-  source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
-
-  replace_strings: true
-  join_strings: true
-
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
-
-  query: "@*"
-
-# -----------------------------------------------------------------------------
