@@ -1,17 +1,11 @@
 # basic options
 title: Martyna Lukaszewicz
+#email: martyna[at]uidaho[dot]edu
+email: lukas.mrty[at]gmail[dot]com
 author: Jekyll
-description: >
-martyna.lukaszewicz[at]gmail[dot]com
-
-
-
+description: 
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
-
-
-
-
 # Build settings
 markdown: kramdown
 theme: minima
