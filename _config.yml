@@ -12,3 +12,7 @@ markdown: kramdown
 theme: minima
 plugins: 
   - jekyll-sitemap
+minima:
+  social_links:
+    - { platform: google_scholar,  user_url: "https://scholar.google.com/citations?user=ATN-Q6kAAAAJ&hl=en" }
+
