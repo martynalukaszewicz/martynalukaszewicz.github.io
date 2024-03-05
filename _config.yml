@@ -1,21 +1,10 @@
-# -----------------------------------------------------------------------------
-# Site settings
-# -----------------------------------------------------------------------------
 # basic options
 title: Martyna Lukaszewicz
-#first_name: Martyna
-#last_name: Lukaszewicz
-#email: martyna.lukaszewicz[at]gmail[dot]com
-#author: Jekyll
-#author: blank
+author: Jekyll
 description: >
 martyna.lukaszewicz[at]gmail[dot]com
 
 
-
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
 
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
@@ -26,6 +15,5 @@ linkedin_username: martyna-lukaszewicz
 # Build settings
 markdown: kramdown
 theme: minima
-
 plugins: 
   - jekyll-sitemap
