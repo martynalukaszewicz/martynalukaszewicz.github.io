@@ -12,10 +12,5 @@ markdown: kramdown
 theme: minima
 plugins: 
   - jekyll-sitemap
-minima:
-  social_links:
-    - { platform: google-scholar,  user_url: "https://scholar.google.com/citations?user=ATN-Q6kAAAAJ&hl=en" }
-    - platform: google-scholar  # same as SVG filename.
-    user_url: "https://scholar.google.com/citations?user=ATN-Q6kAAAAJ&hl=en"  # URL of profile page.
-    title:  My profile at Google Scholar  # Optional. Text displayed on hovering over link.
+
 
