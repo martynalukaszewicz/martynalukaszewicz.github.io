@@ -6,7 +6,7 @@ author: Jekyll
 description: 
 github_username: martynalukaszewicz 
 linkedin_username: martyna-lukaszewicz 
-martyna.lukaszewicz[at]gmail[dot]com
+#martyna.lukaszewicz[at]gmail[dot]com
 # Build settings
 markdown: kramdown
 theme: minima
