@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 1.About
-#title: About
+title:  About
+
 ---
 
 
