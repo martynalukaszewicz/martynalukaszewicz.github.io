@@ -5,7 +5,7 @@ title:  About
 ---
 
 
-I am a founder and data consultant at [Datnamics](https://www.datnamics.com){:target="_blank"}, and a former researcher in the [Bioinformatics and Computational Biology program](https://www.uidaho.edu/sci/bcb){:target="_blank"} with a focus on mathematical sciences. 
+I am a Statistics and Modeling Epidemiologist at Washington State Department of Health, and a former researcher in the [Bioinformatics and Computational Biology program](https://www.uidaho.edu/sci/bcb){:target="_blank"} with a focus on mathematical sciences. 
 I specialize in the reproducibility of experimental models.
 
 
